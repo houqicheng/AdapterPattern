@@ -1,0 +1,2 @@
+c:\users\jack\documents\visual studio 2015\Projects\AdapterSample\bin\Debug\AdapterSample.exe.config
+c:\users\jack\documents\visual studio 2015\Projects\AdapterSample\obj\Debug\AdapterSample.csprojResolveAssemblyReference.cache
