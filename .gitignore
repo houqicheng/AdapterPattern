@@ -4,3 +4,8 @@ obj/
 
 v15/
 v14/
+
+# User-specific files  
+*.suo  
+*.user  
+*.sln.docstates 
