@@ -1,7 +1,0 @@
-C:\Jack\2019git\AdapterPattern\AdapterSample\bin\Debug\AdapterSample.exe.config
-C:\Jack\2019git\AdapterPattern\AdapterSample\bin\Debug\AdapterSample.exe
-C:\Jack\2019git\AdapterPattern\AdapterSample\bin\Debug\AdapterSample.pdb
-C:\Jack\2019git\AdapterPattern\AdapterSample\obj\Debug\AdapterSample.csprojAssemblyReference.cache
-C:\Jack\2019git\AdapterPattern\AdapterSample\obj\Debug\AdapterSample.csproj.CoreCompileInputs.cache
-C:\Jack\2019git\AdapterPattern\AdapterSample\obj\Debug\AdapterSample.exe
-C:\Jack\2019git\AdapterPattern\AdapterSample\obj\Debug\AdapterSample.pdb
