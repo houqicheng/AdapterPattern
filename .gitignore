@@ -2,8 +2,8 @@
 bin/
 obj/
 
-# v15/
-# v14/
+v15/
+v14/
 
 # User-specific files  
 *.suo  
